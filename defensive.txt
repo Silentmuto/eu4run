@@ -1,0 +1,163 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+name = fortification_expert_boost
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = improved_fortifications
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = local_fortress
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = improved_fort_defense
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = defensive_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = the_tower_or_belem
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+	name = japanese_jokamachi
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+name = kni_martinengo
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = kni_valetta
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = to_the_last_man
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = bah_habhsis
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = mer_kumbalgarh
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = jnp_jaunpur_qila
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = defensiveness
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = red_fort
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+	name = arw_preparing_defences
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+name = wih_kenausimonsdochterhasselaer
+duration = -1
+hidden = yes
+}add_country_modifier = {
+	name = stand_the_ground_mod
+	duration = -1 
+	hidden = yes
+}
+
+add_province_modifier = {
+	name = streltsy_garrison
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+	name = roman_garisson
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+	name = joan_of_arc_beatified
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+	name = seat_of_power
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+	name = promised_land
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+	name = chateau_de_chenonceau
+	duration = -1 
+	hidden = yes
+}
+add_province_modifier = {
+name = stand_the_ground_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = teu_crusader_a_fortified_order
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = swe_nobles_fortification
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = nor_scandes_fortresses
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = por_makeshift_defenses
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = solanki_fortress
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = hun_moldavia_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = mlw_fortified
+duration = -1
+hidden = yes
+}

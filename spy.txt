@@ -1,0 +1,77 @@
+ROOT = {
+limit = { ai = no}
+add_country_modifier = {
+	name = foreign_guild_infiltrated
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = loyal_unbelievers
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = blackmailing_cardinal
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sce_cart_peddler_killed
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = recruited_smugglers
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = political_recusancy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = company_interference
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = spy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = strengthened_shinobi
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ven_standardized_relazioni
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = peasants_war_victory
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = inquisitor_boost
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ninjas
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hab_geheime_kabinettskanzlei
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sce_cart_peddler_stopped
+	duration = -1 
+	hidden = yes
+}

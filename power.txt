@@ -1,0 +1,47 @@
+ROOT = {
+limit = { ai = no }
+add_country_modifier = {
+	name = country_admin_power
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = empowered_regency_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_lower_saxon_drittel_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sca_diplomatic_focus_non_heir
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_judicial_reforms_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_polish_hungarian_ties_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_heir_of_rome_modifer
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sca_military_focus_non_heir
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = fin_era_of_independence_modifier
+	duration = -1 
+	hidden = yes
+}

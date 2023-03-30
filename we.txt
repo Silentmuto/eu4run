@@ -1,0 +1,17 @@
+ROOT = { 
+limit = { ai = no}
+add_country_modifier = {
+	name = prot_peace
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = junior_zanahary_cult
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = primary_zanahary_cult
+	duration = -1 
+	hidden = yes
+}

@@ -1,0 +1,157 @@
+ROOT = {
+limit = { ai = no }
+add_country_modifier = {
+	name = protected_commerce
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = got_combat_fleet
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = berber_piracy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ned_sea_beggar_activity
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = plb_dragonships
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hardened_oak
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = maintenance_curriculum
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = wokou_turned_to_navy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = thorough_careening
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ottoman_naval_dominance
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bng_proto_industrial_shipyards
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = gujarati_shipyards
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mug_malay_seamanship
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = tun_morocco
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ned_security_on_and_from_the_sea
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pow_beyond_the_shore
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = the_admirality
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_military_reform
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ottoman_naval_expansion
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_pru_prussian_navy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = divine_wind_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = neva_fleet
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pirate_a_scourge_on_the_seven_seas
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = toulon_dockyards
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = gen_achieved_mare_nostrum
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ita_scipios_helmet
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = khm_navy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = plb_sea_people
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = east_africa_modern_army
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_safe_seaways_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_maritime_hegemon_modifier
+	duration = -1 
+	hidden = yes
+}

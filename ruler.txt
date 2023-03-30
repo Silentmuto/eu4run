@@ -1,0 +1,5 @@
+ROOT = { 
+limit = { ai = no }
+change_dip = 6
+change_mil = 6
+change_adm = 6

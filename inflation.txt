@@ -1,0 +1,32 @@
+ROOT = { 
+limit = { ai = no}
+add_country_modifier = {
+	name = hol_strict_control
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = approprioated_currency
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = revolution_administrative_reforms
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = strong_treasury
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bank_of_scotland
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = taula_de_canvi
+	duration = -1 
+	hidden = yes
+}

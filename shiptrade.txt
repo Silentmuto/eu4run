@@ -1,0 +1,128 @@
+ROOT = {
+limit = { ai = no }
+	
+add_country_modifier = {
+	name = rogue_traders_prosecuted
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = liv_lva_merchant_fleet
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = swe_global_trade_empire_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = swe_baltic_trade_fleet
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = got_lubeck_trade_fleet
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = got_merchants_of_the_baltics
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = por_brazil_colonial
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = eng_channel_dominance add_country_modifier = {
+	name = ori_coromandel_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = nov_north_sea_trade
+	duration = -1 
+	hidden = yes
+}
+
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = oma_maritime_mod
+	duration = -1 
+	hidden = yes
+}
+ add_country_modifier = {
+	name = india_light_ships
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pirate_trade_practices
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = gra_merchants_inspired
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = kni_crusade_against_piracy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = nap_barbary_pirates
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sav_tyrrhenian_sea
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pru_emden_company_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hanseatic_merchant_navy_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = aju_fleet_investment
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = east_africa_commercial_routes
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = gen_hoa_trade_navy_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_global_maritime_empire_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_global_maritime_empire_2_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_hanseatic_trade_fleet_modifier
+	duration = -1 
+	hidden = yes
+}

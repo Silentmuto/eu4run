@@ -1,0 +1,26 @@
+ROOT = { 
+limit = { ai = no }
+add_country_modifier = {
+	name = hsa_hanseatic_artillery_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_war_minister_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_modernized_army_2_modifier
+	duration = -1 
+	hidden = yes
+}add_country_modifier = {
+	name = pap_roman_leadership
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = c_a_preparing_for_war
+	duration = -1 
+	hidden = yes
+}

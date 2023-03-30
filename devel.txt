@@ -1,0 +1,190 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+
+add_province_modifier = {
+name = good_monsoon_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = redmans_burden
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = mesta_privileged_revoked
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = mor_looks_inward
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = estate_cossacks_exploration_expedition_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = estate_burghers_tropical_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = blessing_of_the_land
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = lovely_place
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = grow_in_harmony_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = junior_buddhism_cult
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = estate_burghers_hydraulic_rights_desert
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = teu_expanded_resources_marienburg
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = teu_expanded_resources_marienburg
+duration = -1
+hidden = yes
+}
+
+add_province_modifier = {
+name = teu_expanded_resources_bran_castle
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = estate_burghers_forest_expansion_forest
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = dnz_development_investment
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = lif_lva_baltic_expansion
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = byzantine_treasures_returned
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = per_pearl_of_khorasan
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = swe_local_economical_upswing
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = sca_swe_danish_shipyard
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = got_investment_into_capital
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = edinburgh_london_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = edinburgh_london_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = irish_potatoes
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = improved_han
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = vij_plunder_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = growing_importance_of_golconda
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = mahmud_gawans_madrassah_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = metropolis_of_the_deccan_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = kannauj_restored_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = ahmadabad_paper
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = new_cambay
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = united_bengal
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = tau_new_capital
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = fortified_the_doab
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = city_of_aurangabad
+duration = -1
+hidden = yes
+}

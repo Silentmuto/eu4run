@@ -1,0 +1,83 @@
+ROOT = {
+limit = { ai = no}
+add_country_modifier = {
+	name = liv_marine_focus
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sca_nor_reformed_leidang_conscription
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mlw_gujarat_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = refoming_barbary_pirates
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pirate_triangle_trade
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pirate_a_scourge_on_the_seven_seas
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = nav_reclaimed_coast
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = adu_trade_company_founded
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bav_italian_coast
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pap_gasmoulikon_corps
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sailor_mon
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pow_beyond_the_shore
+	duration = -1 
+	hidden = yes
+}
+every_owned_province = {
+add_province_modifier = {
+name = muslim_sailor_community
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = russian_pacific_port
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = got_pirate_port_of_london
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = neva_fleet
+duration = -1
+hidden = yes
+}

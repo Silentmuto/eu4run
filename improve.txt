@@ -1,0 +1,102 @@
+ROOT = { 
+limit = { ai = no}
+add_country_modifier = {
+	name = competent_diplomacy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bavarian_ambition
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = beloved_diplomats
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mary_inheritance_reforms
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = junior_cwezi_cult
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = shavuot_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = liv_diplomatic_knights
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = eng_rb_hre_relations
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = gen_hre_diplomacy_mod
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mlo_has_friends
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pro_lorraine_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hab_balance_of_power_mod
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bur_english_diplomacy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = lan_affable_leadership
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bishop_elector_good_diplomacy
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = boh_integrated_silesia
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = bri_rulers_of_paris
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = itm_influential_government
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mal_generous_realm
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = son_fetishism_as_secondary_religion
+	duration = -1 
+	hidden = yes
+}

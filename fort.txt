@@ -1,0 +1,22 @@
+ROOT = { 
+limit = { ai = no}
+add_country_modifier = {
+	name = promised_land
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = fortification_expert_boost
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_crusader_a_fortified_order
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = nor_scandes_fortresses
+	duration = -1 
+	hidden = yes
+}

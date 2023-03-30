@@ -1,0 +1,89 @@
+ROOT = { 
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+name = bah_attracting_the_right_people
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = jnp_decline_of_delhi
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = pru_sanssouci_palace
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = vishnu_brahma
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = dhimmi_administrators
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = new_men
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = wih_jane_austen
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = dev_educated_women
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = expanded_mbudye
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = naive_employer
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = shinto_self_made_men
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = shinto_kirishitan_realm
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = primary_jewish_cult
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = supported_kabuki
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = prikazy_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = dregatori_modifier
+duration = -1
+hidden = yes
+}
+
+add_province_modifier = {
+name = confucian_administration_fallback
+duration = -1
+hidden = yes
+}

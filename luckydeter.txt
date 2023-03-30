@@ -1,0 +1,9 @@
+every_country = {
+limit = { luck = yes}
+
+country_event = {
+id = dotf.9
+days = 2
+}
+add_stability = 1
+}

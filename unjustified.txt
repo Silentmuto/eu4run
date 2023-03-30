@@ -1,0 +1,22 @@
+ROOT = { 
+limit = { ai = no }
+add_country_modifier = {
+	name = shakti_kali
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = in_league_for_land
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = prot_wars
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = c_a_hegemon
+	duration = -1 
+	hidden = yes
+}

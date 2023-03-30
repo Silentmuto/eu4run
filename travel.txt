@@ -1,0 +1,17 @@
+ROOT = {
+limit = { ai = no}
+add_country_modifier = {
+	name = emissary_authority
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = adventuring_merchants
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pap_eastern_mediterranean_routes
+	duration = -1 
+	hidden = yes
+}

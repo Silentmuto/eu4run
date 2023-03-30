@@ -1,0 +1,7 @@
+ROOT = {
+limit = { ai = no }
+add_country_modifier = {
+	name = difficulty_very_hard_ai
+	duration = -1 
+	hidden = yes
+}

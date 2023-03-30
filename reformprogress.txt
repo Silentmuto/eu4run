@@ -1,0 +1,32 @@
+ROOT {
+limit = { ai = no }
+add_country_modifier = {
+	name = swedish_court_of_appeals
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = legalised_divorces_aspect_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = anglican_innovativeness
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mlo_dealt_with_republicanism
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = fkn_franconian_palace
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_republican_modus_operandi_modifier
+	duration = -1 
+	hidden = yes
+}

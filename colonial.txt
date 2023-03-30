@@ -1,0 +1,52 @@
+ROOT = { 
+limit = { ai = no }
+add_country_modifier = {
+	name = protestant_refugees_to_the_colonies
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = puritan_colonists
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = swe_swedish_colonialism
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = dan_colonial_ambitions_mod
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = sca_nor_curiosity_of_the_forefathers
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = spice_colony_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = colonize_the_continent
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = mal_colonial_enthusiasm
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = zan_expansion_into_the_cape
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_new_world_ambitions_modifier
+	duration = -1 
+	hidden = yes
+}

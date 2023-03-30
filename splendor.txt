@@ -1,0 +1,34 @@
+ROOT = {
+limit = { ai = no}
+every_owned_province = {
+add_province_modifier = {
+name = bav_splendorous_bavaria
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = sav_king_of_france
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = eth_surpassed_aksumite_empire
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = fkn_kingdom_of_the_franks_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = swe_dominium_maris_baltici_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = dan_king_of_denmark_and_england
+duration = -1
+hidden = yes
+}
+

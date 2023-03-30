@@ -1,0 +1,25 @@
+ROOT = { 
+limit = { ai = no }
+ add_estate_loyalty = {
+            estate = all
+            loyalty = 100
+        }
+		take_estate_land_share_massive = { estate = all }
+		add_estate_loyalty_modifier = {
+    estate = estate_nobles
+    desc = a
+    loyalty = 100
+    duration = -1
+}
+add_estate_loyalty_modifier = {
+    estate = estate_church
+    desc = a
+    loyalty = 100
+    duration = -1
+}
+add_estate_loyalty_modifier = {
+    estate = estate_burghers
+    desc = a
+    loyalty = 100
+    duration = -1
+}

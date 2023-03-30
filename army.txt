@@ -1,0 +1,229 @@
+ROOT = { 
+limit = { ai = no}
+add_country_modifier = {
+	name = the_royal_army
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = chushingura
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_military_reform
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = joined_league_war
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = rb_eng_theory_warfare
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_crusader_mil_reform_1_mod
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_crusader_mil_reform_2_mod
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_crusader_mil_reform_3_mod
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_unified_orders
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = liv_lva_prussian_military
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = rig_the_rigan_orders
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = beyond_the_pale_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = marathi_fiefs_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pirate_the_pirate_threat
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = conquest_of_espainiako
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = khm_burma_campaign
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = se_our_river
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = iroquois_one_nation
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_overlordship_in_prussia_modifier
+	duration = -1 
+	hidden = yes
+}
+
+add_country_modifier = {
+	name = zim_uniform_tailoring
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ada_preperation_for_war
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = east_africa_modern_army
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = warband_assembled
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_aristocrat_burgermeister_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = wargames
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = liv_lva_prussian_military
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pol_modernized_army_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = guru_granth_sahib_military
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = gunpowder_core
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = standardized_uniforms_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = liv_militarized_knights
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pro_la_marseillaise
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = pru_space_marines
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = kon_permanent_army_level_1
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = c_a_preparing_for_war
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = liv_militarized_knights
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = balkan_empire
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = got_finest_pirate_cloths
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = conquest_of_beijing
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = msi_prepared_for_war
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = hsa_improved_military_administration_modifier
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = ottoman_hungary
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = napoleon_manuever
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = teu_crusade_horses_of_the_steppes
+	duration = -1 
+	hidden = yes
+}
+add_country_modifier = {
+	name = conquest_of_air
+	duration = -1 
+	hidden = yes
+}
+

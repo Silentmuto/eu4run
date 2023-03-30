@@ -1,0 +1,82 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+name = ship_building_boom
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = ned_shipbuilding_industry
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = ned_shipbuilding_industry
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = thriving_ship_building_sector
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = dan_naval_preperations
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = got_expanded_port
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = neva_fleet
+duration = -1
+hidden = yes
+}
+
+
+
+
+add_province_modifier = {
+name = mongol_fleet_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = lan_tuscan_naval_expansion
+duration = -1
+hidden = yes
+}
+
+add_province_modifier = {
+name = han_hansa_cities_mod
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = hanseatic_shipwrights_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = aju_fleet_investment
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = hsa_shipwrights_naval_expansion_modifier
+duration = -1
+hidden = yes
+}
+
+
+
+
+
+
+}
+
+}
