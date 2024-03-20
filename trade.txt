@@ -1,0 +1,122 @@
+ROOT = { 
+limit = { ai = no }
+
+every_owned_province
+{
+add_province_modifier = {
+name = jingdezhen_kilns
+duration = -1
+}
+
+add_province_modifier = {
+name = encomienda_system
+duration = -1
+}
+add_province_modifier = {
+name = skanemarket
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = icelanding_fisher_sea
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = granary_of_the_mediterranean
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = diamond_mines_of_golconda_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = river_estuary_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = neva_estuary_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = daugava_estuary_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = neman_estuary_modifier
+duration = -1
+hidden = yes
+}
+add_province_modifier = {
+name = vistula_estuary_modifier
+duration = -1
+hidden = yes
+}
+
+
+}
+
+add_country_modifier = {
+name = competitive_advantage
+duration = -1
+hidden = yes
+}
+
+add_country_modifier = {
+name = encomienda_system
+duration = -1
+hidden = yes
+}
+
+
+add_country_modifier = {
+name = trade_income_increase
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = blockade_tactics
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = adventuring_merchants
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = trade_policy_working
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = serf_exploitation
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = efficienct_merchants
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = india_trade_co
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = portuguese_india_trade_co
+duration = -1
+hidden = yes
+}
+add_country_modifier = {
+name = scottish_india_trade_co
+duration = -1
+hidden = yes
+}
+
