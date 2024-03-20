@@ -1,0 +1,15 @@
+ROOT = {
+limit = { ai = no }
+add_country_modifier = {
+name = serenity_of_faith
+duration = -1
+hidden = yes
+}
+every_owned_province = {
+add_province_modifier = {
+name = sepoys_modifier
+duration = -1
+hidden = yes
+}
+
+}
